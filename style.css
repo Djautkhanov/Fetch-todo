@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inp{
+    width: 275px;
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;;
+    margin-top: 15px;
+}
+.task-done{
+    opacity: 0.5;
+}
